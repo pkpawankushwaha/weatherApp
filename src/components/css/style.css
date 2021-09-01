@@ -18,6 +18,8 @@
     position: relative;
     vertical-align: center;
     min-height: 50vh;
+    border-radius: 20px;
+    padding:20px;
     width: 50%;
     left:25%;
     align-self: center;

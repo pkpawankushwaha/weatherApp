@@ -30,9 +30,7 @@ const Demo=()=>{
     })
     return (
         <div>
-            <h1>Demo</h1>
-            {!name?(<p>NoData</p>):(<div><p>Name : {name}</p><br></br>
-            <p>Age : {age}</p></div>)}
+            
         </div>
     )
 }

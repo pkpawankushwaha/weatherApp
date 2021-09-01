@@ -41,9 +41,9 @@ const ReactApp=()=>{
                 (
                 <div>
                     <p>City : {cityname}</p>
-                    <p>Temperature : {city.temp}</p>
+                    <p>Temperature : {city.temp} Celsius</p>
                     <br></br>
-                    <p>{coord[0]} | {coord[1]}</p>
+                    <p>Latitude :  {coord[0]} | Longitude : {coord[1]}</p>
                 </div>
                 )
             }
